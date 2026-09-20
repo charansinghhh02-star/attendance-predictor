@@ -40,3 +40,6 @@ else:
     st.error(
         "Attended classes cannot exceed total classes"
     )
+    # Add creator credit at the bottom
+st.markdown("---")
+st.markdown("### 🛠️ Created by Charan Singh")
